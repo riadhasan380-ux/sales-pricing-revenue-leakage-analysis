@@ -1,0 +1,7 @@
+Issue Type,Record Count,Est. Revenue Impact ($)
+Duplicate Orders,28,"$1,066,232.99"
+Missing Unit Price,21,$0.00
+Negative Quantity,27,"$1,664,398.56"
+Price Outlier,8,"$51,554,751.01"
+Missing Customer ID,11,"$320,751.68"
+Inconsistent Product Name,12,"$697,733.33"
